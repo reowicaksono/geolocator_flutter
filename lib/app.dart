@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:presence_app/modules/routes/app_routes.dart';
+
 import 'package:presence_app/router.dart';
 
 final _appRoute = AppRouter();
